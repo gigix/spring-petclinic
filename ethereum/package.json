@@ -1,0 +1,17 @@
+{
+  "name": "petclinic-on-blockchain",
+  "version": "0.1.0",
+  "description": "Pet Clinic sample application for learning blockchain",
+  "license": "GPL-3.0",
+  "scripts": {
+
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:gigix/spring-petclinic.git"
+  },
+  "dependencies": {
+    "truffle": "5.1.18"
+  }
+}
