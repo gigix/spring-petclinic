@@ -6,16 +6,16 @@
 
 * Login as pet owner
 
+* Write pet information to Ethereum
+
+## DOING
+
 * Spike: write data pieces to Ethereum
 
 * Write owner information to Ethereum
 
-* Write pet information to Ethereum
-
-* Spike: clean up data in Ethereum
-
-## DOING
+## DONE
 
 * Setup Ethereum server along with Java server
 
-## DONE
+* Spike: clean up data in Ethereum
